@@ -62,5 +62,5 @@ Here are a few ways to get your project to us:
 Don't hesistate to contact us if you have any questions! Please send an email to either:
 
 - doortje.spanjerberg@umain.com
+- viktor.asbrink@umain.com
 - herbert.cuba@umain.com
-- wayne.knoessen@umain.com
